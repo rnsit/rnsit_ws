@@ -1,4 +1,3 @@
 rnsit_ws
 ========
-
-GIT Workshop at RNSIT, Bangalore
+Sentiment analysis programming exercise
